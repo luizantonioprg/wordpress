@@ -1,0 +1,40 @@
+.recuperar_senha {
+  /* border: solid 2px black; */
+  max-width: 400px;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+.recuperar_senha input {
+  padding: 5px 5px;
+  border-radius: 5px;
+  border: solid 5px #7c1289;
+  margin: 2px;
+}
+.recuperar_senha_titulo {
+  width: 100%;
+  text-align: left;
+  font-family: Arial;
+  color: white;
+  padding: 4px;
+  width: 70%;
+  border-radius: 4px;
+  background: #7c1289;
+}
+#submit_recuperar {
+  border-radius: 5px;
+  padding: 5px 5px;
+  border: solid 5px #7c1289;
+  color: white;
+  background-color: #7c1289;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 2px;
+}
+.email_enviado {
+  margin: 0 auto;
+  max-width: 500px;
+  border: solid 2px black;
+  background-color: #7c1289;
+  font-family: Arial;
+  color: white;
+}

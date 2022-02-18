@@ -1,0 +1,55 @@
+.front_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.forms input {
+  padding: 5px 5px;
+  border-radius: 5px;
+  border: solid 5px #7c1289;
+  margin: 2px;
+}
+#submit_entrar {
+  border-radius: 5px;
+  padding: 5px 5px;
+  border: solid 5px #7c1289;
+  color: white;
+  background-color: #7c1289;
+  font-weight: bold;
+}
+#submit_cadastrar {
+  width: 97%;
+  padding: 5px 5px;
+  border: solid 5px #7c1289;
+  color: white;
+  background-color: #7c1289;
+  font-weight: bold;
+}
+.entrarOuCadastrar {
+  font-family: Arial;
+  color: white;
+  padding: 4px;
+  width: 70%;
+  border-radius: 4px;
+  background: #7c1289;
+}
+#submit_entrar,
+#submit_cadastrar {
+  font-family: Arial;
+  cursor: pointer;
+}
+.validation_error {
+  padding: 10px;
+  /* border: solid 2px red; */
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Arial;
+  color: white;
+  background: #7c1289;
+  font-weight: bold;
+  border-radius: 10px;
+  position: absolute;
+  top: 40vh;
+  left: 35vw;
+}

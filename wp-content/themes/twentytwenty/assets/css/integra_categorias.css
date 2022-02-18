@@ -1,0 +1,32 @@
+.titulo_categoria_integra {
+  margin: 0 auto;
+  border-bottom: dotted 5px #7c1289;
+  font-family: Arial;
+  height: 50px;
+  /* border-radius: 10px; */
+  padding-left: 5px;
+  width: 300px;
+  margin-right: 0;
+}
+
+.cabecalho_categoria {
+  border-bottom: solid 5px #7c1289;
+  display: flex;
+  justify-content: space-between;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 5px;
+}
+.imagem_categoria {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+.lista {
+  border-left: dotted 10px #7c1289;
+  list-style: none;
+  margin: 0 auto;
+  max-width: 700px;
+  margin-top: 4vh;
+}

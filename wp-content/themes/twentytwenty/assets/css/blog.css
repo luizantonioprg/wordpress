@@ -1,0 +1,42 @@
+.titulo {
+  font-family: Arial;
+  color: white;
+  padding: 4px;
+  width: 500px;
+  border-radius: 4px;
+  margin: 0 auto;
+  background: #7c1289;
+  margin-bottom: 2vh;
+}
+.container_posts_blogs2 {
+  /* border: solid 2px black; */
+  max-width: 1200px;
+  margin: 0 auto;
+
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+/* container */
+.container_post2 {
+  /* border: solid 2px red; */
+  width: 100%;
+  display: flex;
+  /* justify-content: space-around; */
+  margin-bottom: 2vh;
+  font-family: Arial;
+}
+.container_texto_post2 {
+  /* border: solid 2px black; */
+  width: 500px;
+  margin-left: 10vw;
+}
+.wp-post-image {
+  border-radius: 10px;
+}
+.ver_post {
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+  background-color: #61ff57;
+}

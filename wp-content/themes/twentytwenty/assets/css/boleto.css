@@ -1,0 +1,17 @@
+.container_boleto {
+  margin: 0 auto;
+  /* border: solid 2px black; */
+}
+
+.container_boleto form {
+  margin: 0 auto;
+  max-width: 500px;
+  /* border: solid 2px black; */
+  text-align: center;
+}
+
+.container_boleto form input {
+  border-radius: 5px;
+  padding: 5px;
+  border: none;
+}

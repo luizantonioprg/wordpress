@@ -1,0 +1,39 @@
+.titulo_home {
+  color: white;
+  font-family: Arial;
+  padding: 5px;
+  max-width: 200px;
+  color: white;
+  border: solid 5px #7c1289;
+  background-color: #7c1289;
+  border-radius: 10px;
+  margin-left: 10vw;
+  cursor: pointer;
+  font-weight: bolder;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 300px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+.container_p {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 950px;
+  /* border: solid 2px black; */
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.card img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

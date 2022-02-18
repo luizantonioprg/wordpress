@@ -1,0 +1,31 @@
+.titulo_post {
+  /* border: solid 2px black; */
+
+  font-family: Arial;
+  color: white;
+  padding: 4px;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 4px;
+  background: #7c1289;
+  margin-bottom: 2vh;
+}
+.container_post {
+  /* border: solid 2px black; */
+  width: 500px;
+  margin: 0 auto;
+  font-family: Arial;
+  /* background-color: #7c1289;
+  color: white; */
+}
+.titulo_categoria {
+  /* border: solid 2px black; */
+  width: 500px;
+  margin: 0 auto;
+}
+
+#gallery-1 {
+  /* border: solid 2px black; */
+  display: flex;
+  overflow-x: scroll;
+}
